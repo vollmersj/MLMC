@@ -1,6 +1,6 @@
 The MLMC.jl package is licensed under the MIT "Expat" License:
 
-> Copyright (c) 2016: Sebastian Vollmer.
+> Copyright (c) 2016: Tigran Nagapetyan and Sebastian Vollmer.
 >
 > Permission is hereby granted, free of charge, to any person obtaining
 > a copy of this software and associated documentation files (the
